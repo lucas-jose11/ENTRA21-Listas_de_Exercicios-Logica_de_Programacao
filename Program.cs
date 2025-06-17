@@ -4,16 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //só colar o código aqui
         }
 
-        static void ChooseList(int a)
-        {
-
-        }
-
-        //função pra percorrer lista e escolher lá os exercicios que quer ver
     }
 }
-
-   
